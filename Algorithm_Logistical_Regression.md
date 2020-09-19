@@ -6,7 +6,7 @@
 
 ### Example Inference  
 
-	Binary **Yes** or **No**
+Binary **Yes** or **No**
 
 
 ### Use cases
